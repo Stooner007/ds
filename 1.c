@@ -14,8 +14,8 @@ return;
 }
 printf("enter %d nos\n",n);
 for(i=0;i<n;i++)
-scanf("%f",(p+i));
+ scanf("%f",(p+i));
 for(i=0;i<n;i++)
-sum=sum+ *(p+i);
+ sum=sum+ *(p+i);
 printf("sum=%f", sum);
 }
